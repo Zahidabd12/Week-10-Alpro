@@ -3,7 +3,7 @@ Zahid Abdullah (103102400034)
 
 1.	Seorang petani memiliki kebun apel dengan 5 pohon. Setiap tahun, setiap pohon menghasilkan jumlah apel yang berbeda. Data hasil panen selama 3 tahun terakhir telah dicatat. Buatlah program yang akan menghitung total jumlah apel dari semua pohon apel setiap tahun, dan menghitung rata-rata dari hasil panen 5 pohon apel selama 3 tahun. 
 2.	Toko SukaMaju sedang berulang tahun dan ingin memberikan diskon berdasarkan jumlah pembelian. Aturan diskonnya adalah:
-a.	Jika total belanja kurang dari Rp 100.000, tidak ada diskon.
-b.	Jika total belanja antara Rp 100.000 hingga Rp 200.000, diskon 10%.
-c.	Jika total belanja lebih dari Rp 200.000, diskon 15%.
+  a.	Jika total belanja kurang dari Rp 100.000, tidak ada diskon.
+  b.	Jika total belanja antara Rp 100.000 hingga Rp 200.000, diskon 10%.
+  c.	Jika total belanja lebih dari Rp 200.000, diskon 15%.
 Buatlah program yang akan menghitung total belanja dan menampilkan jumlah yang harus dibayar setelah dikurangi diskon.
